@@ -28,17 +28,6 @@ the next morning by 9:00am.
 
 **Make a commit after each prompt.**
 
-## Requirements
-
-There are a series of prompts inside [`lib/challenge.js`](lib/challenge.js).
-Work through all of the prompts. Each prompt is in the form of a JavaScript
-comment. Write your code to solve the prompt after the comment.
-
-Some prompts will require you to practice researching methods we did not learn
-in class.
-
-**You are required to make a commit after each prompt.**
-
 ## Plagiarism
 
 Take a moment to refamiliarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.
